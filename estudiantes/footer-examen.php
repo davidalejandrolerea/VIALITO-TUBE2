@@ -8,7 +8,7 @@
           <a href="#"><i class="fas fa-arrow-circle-up fa-3x"></i></a>
         </p>
         <div class="d-flex justify-content-center py-3">
-        <p>VIALITO&copy; 2019</p>
+        <p>VIALITO&copy; 2020</p>
         </div>
       </div>
     </footer>
