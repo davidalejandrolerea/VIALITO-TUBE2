@@ -19,7 +19,7 @@ include("top-admin.php");
 </tr>
     <tr class="success">
       <td>N#</td>
-      <td>Nombres y Apellidos</td>
+      <td>Nombres y Apellido</td>
       <td>Usuario</td>
       <td></td>
 
