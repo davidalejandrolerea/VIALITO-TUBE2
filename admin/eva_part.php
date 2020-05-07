@@ -52,6 +52,7 @@ if ($resul=$link->query($buscar)) {
 </div>
 <select name="nivel" class="form-control">
  <option value="SECUNDARIA">SECUNDARIA</option> 
+ <option value="SUPERIOR">SUPERIOR</option> 
 </select>
 </div>
 
