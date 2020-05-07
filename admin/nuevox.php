@@ -51,7 +51,7 @@ $numero++;
     <tr>
       <td class="danger">Curso:</td>
       <td><input type="hidden" name="curso" class="form-control" value="<?php echo $curso;?>"><?php echo $curso;?></td>
-      <td class="danger">Paralelo:</td>
+      <td class="danger">Division:</td>
       <td><input type="hidden" name="paralelo" class="form-control" value="<?php echo $paralelo;?>"><?php echo $paralelo;?></td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ function generarCodigo($longitud) {
  
 //echo generarCodigo(6); // genera un código de 6 caracteres de longitud.value="echo generarCodigo(6);
 ?>
-      <td><input type="text" name="ci" class="form-control"  placeholder="Ingrese el C.I. que es el USUARIO" required></td>
+      <td><input type="text" name="ci" class="form-control"  placeholder="Ingrese el DNI  del Alumno" required></td>
     </tr>
     <tr>
       <td class="danger">A.Paterno:</td>
@@ -100,7 +100,7 @@ function generarCodigo($longitud) {
     <td>Colegio</td>
     <td>Nivel</td>
     <td>Curso</td>
-    <td>Paralelo</td>
+    <td>Division</td>
     <td>Gestion</td>
     
   </tr>
