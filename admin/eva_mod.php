@@ -26,7 +26,7 @@ $paralelo=$_GET['paralelo'];
     <tr>
       <th scope="col">#</th>
       <th scope="col">Apellidos y Nombres</th>
-      <th scope="col">C.I.(Usuario)</th>
+      <th scope="col"> DNI(Usuario)</th>
       <th scope="col"></th>
     </tr>
   </thead>

@@ -28,7 +28,7 @@ if ($re=$link->query($cons)) {
 
     <!-- Begin page content -->
     <main role="main" class="container bg-light p-3">
-      <h1 class="mt-5">Evaluación de :<?php echo utf8_decode($titulo);?></h1>
+      <h1 class="mt-5">Evaluación de : <?php echo utf8_decode($titulo);?></h1>
       
 <div class="alert alert-danger alert-dismissable">
   <button type="button" class="close" data-dismiss="alert">&times;</button>

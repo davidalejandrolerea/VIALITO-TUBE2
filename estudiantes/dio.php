@@ -28,7 +28,7 @@ if ($resultado=$link->query($consulta)) {
 
     <!-- Begin page content -->
     <main role="main" class="container">
-    	<h1 class="mt-5">Bienvenido a la Evaluacion de :<?php echo $titulo;?></h1>
+    	<h1 class="mt-5">Bienvenido a la Evaluacion de : <?php echo $titulo;?></h1>
       <p class="lead">Solo tienes un intento, una vez que comienza  no hay marcha atras</p>
 <div class="alert alert-danger alert-dismissable">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
