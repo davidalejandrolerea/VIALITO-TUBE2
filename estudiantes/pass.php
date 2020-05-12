@@ -54,7 +54,7 @@ if ($cargo=='3') { ?>
 
 <?php 
 
-$API_KEY = "AIzaSyAv9ffKvnHd-ey6PIfTeGeTTYPFGtHrG_s";
+$API_KEY = "AIzaSyB7ZMbfhlUQo0wDwGJUP_1_XF5KoRuC_hw";
 $CHANNEL_ID = "UCpmRfwZ0xWEsJeonic0dkvw";
 $MAX_RESULTS = 5;
 
